@@ -1,0 +1,65 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.preview {
+    border: 0px solid #000;
+    box-shadow: 5px 5px #5f5f5f;
+    width: 500px;
+    margin: 2rem auto;
+    padding: 20px;
+    background: url(../img/red.jpg);
+    background-size: contain;
+    border-radius: 10px;
+    border: 1px solid #777676;
+}
+
+.title {
+    display: inline-block;
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #a8a8a8;
+    font-size: 1.5rem;
+    color: rgb(185, 115, 68);
+    margin: 0;
+    padding: 5px;
+    vertical-align: middle;
+    margin-left: 10px;
+    box-shadow: 3px 3px #5f5f5f;
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    background: rgb(255, 255, 255);
+    color: rgb(146, 51, 118);
+    border: 1px solid #5f5f5f;
+    text-align: left;
+    border-radius: 10px;
+    text-indent: 1em;
+    padding: 5px;
+}
+
+.about {
+    text-indent: 1.5em;
+}
+
+
+/* h2 {
+    display: inline-block;
+} */
+
+h4 {
+    display: inline-block;
+}
+
+.photo_pre {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
